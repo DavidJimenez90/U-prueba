@@ -5,3 +5,4 @@
 4. Attilan
 5. Wakanda
 6. Asgard
+7. pueblo paleta
